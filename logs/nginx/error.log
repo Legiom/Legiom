@@ -1,0 +1,4 @@
+2022/11/28 14:49:12 [error] 1304#8672: *15 WSARecv() failed (10054: FormatMessage() error:(15100)) while reading response header from upstream, client: 127.0.0.1, server: , request: "GET /wp-login.php?redirect_to=http%3A%2F%2Flegiom.local%2Fwp-admin%2F&reauth=1 HTTP/1.0", upstream: "fastcgi://127.0.0.1:10003", host: "legiom.local"
+2022/11/28 14:49:13 [alert] 10220#7812: OpenEvent("ngx_master_10448") failed (2: FormatMessage() error:(15100))
+2022/11/28 14:58:37 [alert] 4704#9728: OpenEvent("ngx_master_2024") failed (2: FormatMessage() error:(15100))
+2022/11/28 15:08:34 [alert] 10208#6364: OpenEvent("ngx_master_8272") failed (2: FormatMessage() error:(15100))
